@@ -1,0 +1,17 @@
+PALETA (propuesta, caso D: sin logo ni paleta entregada)
+
+Lógica: verde petróleo que transmite salud y calma sin parecerse a la identidad de ninguna isapre;
+amarillo destacador como único acento, ligado a la idea de "explicar y subrayar el plan".
+
+Primario        #0E5A53  verde petróleo (botones, bandas, íconos)
+Primario oscuro #0A4540  hover
+Secundario      #D6ECE4  menta (fondos de apoyo)
+Acento          #F4B942  amarillo destacador (subrayados, CTA sobre fondo oscuro)
+Acento suave    #FBE7B4  reverso de tarjetas, avisos
+Fondo           #F4F8F6  blanco enfriado hacia el primario
+Texto           #10312E  tinta verde muy oscura
+Texto secundario #48605D
+WhatsApp        #25D366  solo botón flotante
+
+Tipografías (alojadas en /fonts): Bricolage Grotesque (títulos), Figtree (texto), Caveat (anotaciones a mano).
+No usar logos ni colores de ninguna isapre: es el sitio personal de la asesora.

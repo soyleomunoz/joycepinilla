@@ -98,6 +98,10 @@
 }
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:84px;-webkit-text-size-adjust:100%}
+/* Móvil: sin desplazamiento horizontal de la página (red de seguridad) */
+html,body{overflow-x:hidden;overscroll-behavior-x:none}
+html{touch-action:pan-y pinch-zoom}
+body{position:relative;width:100%}
 body{margin:0;font-family:var(--body);font-size:1.0625rem;line-height:1.6;color:var(--ink);background:var(--paper);overflow-x:hidden}
 body.is-locked{overflow:hidden}
 img,svg{max-width:100%;height:auto}

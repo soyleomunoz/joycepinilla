@@ -17,7 +17,7 @@ Personas en Chile que cotizan en Fonasa o en una isapre y quieren evaluar, cambi
 - País: Chile
 
 ## Páginas
-- [Portada](https://www.DOMINIO-PENDIENTE.cl/)
-- [Libre elección, preferente o cerrado: qué significa cada tipo de plan](https://www.DOMINIO-PENDIENTE.cl/blog/tipos-de-plan-isapre.html)
-- [Declaración de Salud: por qué conviene declarar todo](https://www.DOMINIO-PENDIENTE.cl/blog/declaracion-de-salud.html)
-- [Quiero cambiarme de isapre: plazos y documentos](https://www.DOMINIO-PENDIENTE.cl/blog/cambiarse-de-isapre.html)
+- [Portada](https://soyleomunoz.github.io/joycepinilla/)
+- [Libre elección, preferente o cerrado: qué significa cada tipo de plan](https://soyleomunoz.github.io/joycepinilla/blog/tipos-de-plan-isapre.html)
+- [Declaración de Salud: por qué conviene declarar todo](https://soyleomunoz.github.io/joycepinilla/blog/declaracion-de-salud.html)
+- [Quiero cambiarme de isapre: plazos y documentos](https://soyleomunoz.github.io/joycepinilla/blog/cambiarse-de-isapre.html)

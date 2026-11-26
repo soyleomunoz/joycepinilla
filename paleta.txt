@@ -1,17 +1,18 @@
-PALETA (propuesta, caso D: sin logo ni paleta entregada)
+PALETA (tomada del afiche de Joyce: "Cotiza tu plan de Isapre")
 
-Lógica: verde petróleo que transmite salud y calma sin parecerse a la identidad de ninguna isapre;
-amarillo destacador como único acento, ligado a la idea de "explicar y subrayar el plan".
+Lógica: rosados suaves y un vino profundo, igual que el afiche; cercano, femenino y de confianza.
 
-Primario        #0E5A53  verde petróleo (botones, bandas, íconos)
-Primario oscuro #0A4540  hover
-Secundario      #D6ECE4  menta (fondos de apoyo)
-Acento          #F4B942  amarillo destacador (subrayados, CTA sobre fondo oscuro)
-Acento suave    #FBE7B4  reverso de tarjetas, avisos
-Fondo           #F4F8F6  blanco enfriado hacia el primario
-Texto           #10312E  tinta verde muy oscura
-Texto secundario #48605D
+Primario        #8E2F55  vino (botones, bandas, el "7%", íconos)
+Primario oscuro #6F2242  hover
+Secundario      #F6D9E1  rosa suave (fondos de apoyo, bloque del 7%)
+Fondo suave     #FCEEF1
+Acento          #E9A3B7  rosa (subrayados, checks, CTA sobre fondo oscuro)
+Acento suave    #FBE3EA  reverso de tarjetas, avisos
+Fondo           #FFF8F7  blanco rosado
+Texto           #3A2530  ciruela muy oscuro
+Texto secundario #6B5560
 WhatsApp        #25D366  solo botón flotante
 
-Tipografías (alojadas en /fonts): Bricolage Grotesque (títulos), Figtree (texto), Caveat (anotaciones a mano).
+Tipografías (alojadas en /fonts): Bricolage Grotesque (títulos), Figtree (texto), Caveat (manuscrita, como el afiche).
+Fotos en /img: joyce-hero.jpg y joyce-perfil.jpg (foto principal, sola), joyce-asesora.jpg (foto del afiche).
 No usar logos ni colores de ninguna isapre: es el sitio personal de la asesora.

@@ -3,6 +3,7 @@
 > Sitio personal de Joyce Pinilla, asesora de planes de salud de isapre en Chile. Asesora en distintas isapres según el caso de cada cliente. No es el sitio oficial de ninguna isapre.
 
 ## Qué hace
+- Planes de isapre ajustados al 7% del valor imponible: si la persona está en Fonasa, puede tener isapre pagando lo mismo.
 - Cotización de planes de salud de isapre según edad, cargas, renta y lugar de atención.
 - Comparación entre el plan actual de la persona (otra isapre o Fonasa) y las alternativas.
 - Incorporación de cargas al plan.
